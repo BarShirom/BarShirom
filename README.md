@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Bar</h1>
-<h3 align="center">I'm a passionate Web Developer with strong problem-solving, analytical, and self-learning skills. 
+<h3 align="center">I'm a passionate Web Developer with strong problem-solving, analytical, and self-learning skills.<br>
 
-Skilled in:
-React.js/JavaScript/TypeScript/HTML/CSS/SCSS
-Node.js/Express.js
-MongoDB/MySQL
-React-Native
+Skilled in:<br>
+React.js/JavaScript/TypeScript/HTML/CSS/SCSS<br>
+Node.js/Express.js<br>
+MongoDB/MySQL<br>
+React-Native<br>
 
 Currently looking for my next challenge.</h3>
 
