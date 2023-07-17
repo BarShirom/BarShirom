@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Bar</h1>
-<h3 align="center">I'm a passionate Web Developer with strong problem-solving, analytical, and self-learning skills.<br>
+<h3 align="center">I'm a passionate Full Stack Developer with strong problem-solving, analytical, and self-learning skills.<br>
 
 Skilled in:<br>
 React.js/JavaScript/TypeScript/HTML/CSS/SCSS<br>
