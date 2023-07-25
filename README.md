@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Bar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer with strong problem-solving, analytical, and self-learning skills with passion for creating web applications and learning new technologies.<br>
-
+<br>
 Skilled in:<br>
 React.js/JavaScript/TypeScript/HTML/CSS/SCSS<br>
 Node.js/Express.js<br>
