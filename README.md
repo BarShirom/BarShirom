@@ -1,5 +1,5 @@
 <h1>Full Stack Developer</h1>
-<p>Passionate and proactive web developer with a hands-on approach.<br>Currently implementing web applications with the MERN stack and looking for my next challenge - I'm eager to collaborate, innovate, and dedicate myself to an excellent team.</p>
+<p>Passionate and proactive Full-stack developer with deep knowledge in React, NodeJS, and MongoDB. <br/> Motivated for my next challenge in a company that is looking for a great team player and self-learner to develop end-to-end web applications and deal with challenging problems.</p>
 
 <h3>Languages and Tools:</h3>
 
