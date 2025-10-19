@@ -1,5 +1,12 @@
 <h1>Full Stack Developer</h1>
-<p>Passionate and proactive Full-stack developer with deep knowledge in React, NodeJS, and MongoDB. <br/> Motivated for my next challenge in a company that is looking for a great team player and self-learner to develop end-to-end web applications and deal with challenging problems.</p>
+
+<p>
+  Proactive Full-Stack Developer with hands-on experience in React, TypeScript, Node.js, MongoDB, and a
+  growing passion for Artificial Intelligence. <br>
+  Skilled in building scalable web applications from concept to deployment. <br>
+  Currently expanding expertise in Python, Large Language Models (LLMs), Natural Language
+  Processing (NLP), and modern AI ecosystems-including Transformers, LangChain, and vector databases.
+</p>
 
 <h3>Languages and Tools:</h3>
 
@@ -13,13 +20,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-native" width="40" height="40"/>
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
@@ -36,4 +44,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+  </a>
 </p>
+
