@@ -1,14 +1,4 @@
-<h1>Full Stack Developer</h1>
 
-<p>
-  Proactive Full-Stack Developer with hands-on experience in React, TypeScript, Node.js, MongoDB, and a
-  growing passion for Artificial Intelligence. <br>
-  Skilled in building scalable web applications from concept to deployment. <br>
-  Currently expanding expertise in Python, Large Language Models (LLMs), Natural Language
-  Processing (NLP), and modern AI ecosystems-including Transformers, LangChain, and vector databases.
-</p>
-
-<h3>Languages and Tools:</h3>
 
 <p> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
